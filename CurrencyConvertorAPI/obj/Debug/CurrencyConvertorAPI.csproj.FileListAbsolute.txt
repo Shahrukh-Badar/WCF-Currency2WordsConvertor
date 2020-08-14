@@ -1,0 +1,7 @@
+E:\Development\repos_vs\CurrencyConvertorAPI\CurrencyConvertorAPI\bin\CurrencyConvertorAPI.dll.config
+E:\Development\repos_vs\CurrencyConvertorAPI\CurrencyConvertorAPI\bin\CurrencyConvertorAPI.dll
+E:\Development\repos_vs\CurrencyConvertorAPI\CurrencyConvertorAPI\bin\CurrencyConvertorAPI.pdb
+E:\Development\repos_vs\CurrencyConvertorAPI\CurrencyConvertorAPI\obj\Debug\CurrencyConvertorAPI.csprojAssemblyReference.cache
+E:\Development\repos_vs\CurrencyConvertorAPI\CurrencyConvertorAPI\obj\Debug\CurrencyConvertorAPI.csproj.CoreCompileInputs.cache
+E:\Development\repos_vs\CurrencyConvertorAPI\CurrencyConvertorAPI\obj\Debug\CurrencyConvertorAPI.dll
+E:\Development\repos_vs\CurrencyConvertorAPI\CurrencyConvertorAPI\obj\Debug\CurrencyConvertorAPI.pdb
